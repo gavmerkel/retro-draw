@@ -22,7 +22,7 @@ export function buildCellList() {
 
   for (let i = 0; i < 64; i++) {
     cellList.push({
-      color: null
+      color: 'white'
     });
   }
 
